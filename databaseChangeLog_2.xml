@@ -10,5 +10,6 @@
         <constraints nullable="true" primaryKey="false" unique="false"/>
       </column>
     </createTable>
+	<rollback></rollback>
   </changeSet>
 </databaseChangeLog> 
